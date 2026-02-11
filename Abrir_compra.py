@@ -1,6 +1,6 @@
 import webbrowser
 import urllib.parse
-
+*
 produto = input("Digite o nome do produto que deseja procurar: ")
 
 # Codifica o texto para URL (espaços, acentos etc.)
